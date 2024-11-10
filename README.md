@@ -2,6 +2,9 @@
 Make UC 2024 Hackathon Submission
 Created by Argyris & Giorgos Karageorge
 
+Best if ran on Visual Studio.
+Attached is four different G-Code file you can test with.
+
 Link to Devpost: 
 
 ## Inspiration
